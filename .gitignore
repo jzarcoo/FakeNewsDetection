@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
-# Dataset muy pesados
+# Archivos muy grandes
 *.csv
+modelo_bert/bert.h5
+modelo_bert/bert.keras
