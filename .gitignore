@@ -1,5 +1,10 @@
 .ipynb_checkpoints/
-# Archivos muy grandes
+
 *.csv
+
+.qodo
+.*_env/
+
+imdb_bert/
 modelo_bert/bert.h5
 modelo_bert/bert.keras
