@@ -8,3 +8,5 @@
 imdb_bert/
 modelo_bert/bert.h5
 modelo_bert/bert.keras
+
+*.pkl
